@@ -1,0 +1,35 @@
+﻿  main.cpp
+C:\Users\bigma\OneDrive\Documents\GitHub\209-05-individual-assignment-sgarciamontejo\Homeworks\HW2 - Gravity Snake\HW2 - Gravity Snake\main.cpp(44,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  snake.cpp
+C:\Users\bigma\OneDrive\Documents\GitHub\209-05-individual-assignment-sgarciamontejo\Homeworks\HW2 - Gravity Snake\HW2 - Gravity Snake\snake.cpp(76,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\bigma\OneDrive\Documents\GitHub\209-05-individual-assignment-sgarciamontejo\Homeworks\HW2 - Gravity Snake\HW2 - Gravity Snake\snake.cpp(77,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+box2d.lib(b2ChainShape.obj) : warning LNK4099: PDB '' was not found with 'box2d.lib(b2ChainShape.obj)' or at ''; linking object as if no debug info
+box2d.lib(b2EdgeShape.obj) : warning LNK4099: PDB '' was not found with 'box2d.lib(b2EdgeShape.obj)' or at ''; linking object as if no debug info
+box2d.lib(b2PolygonShape.obj) : warning LNK4099: PDB '' was not found with 'box2d.lib(b2PolygonShape.obj)' or at ''; linking object as if no debug info
+box2d.lib(b2CollideCircle.obj) : warning LNK4099: PDB '' was not found with 'box2d.lib(b2CollideCircle.obj)' or at ''; linking object as if no debug info
+box2d.lib(b2CollideEdge.obj) : warning LNK4099: PDB '' was not found with 'box2d.lib(b2CollideEdge.obj)' or at ''; linking object as if no debug info
+box2d.lib(b2CollidePolygon.obj) : warning LNK4099: PDB '' was not found with 'box2d.lib(b2CollidePolygon.obj)' or at ''; linking object as if no debug info
+box2d.lib(b2Collision.obj) : warning LNK4099: PDB '' was not found with 'box2d.lib(b2Collision.obj)' or at ''; linking object as if no debug info
+box2d.lib(b2Distance.obj) : warning LNK4099: PDB '' was not found with 'box2d.lib(b2Distance.obj)' or at ''; linking object as if no debug info
+box2d.lib(b2DynamicTree.obj) : warning LNK4099: PDB '' was not found with 'box2d.lib(b2DynamicTree.obj)' or at ''; linking object as if no debug info
+box2d.lib(b2TimeOfImpact.obj) : warning LNK4099: PDB '' was not found with 'box2d.lib(b2TimeOfImpact.obj)' or at ''; linking object as if no debug info
+box2d.lib(b2Math.obj) : warning LNK4099: PDB '' was not found with 'box2d.lib(b2Math.obj)' or at ''; linking object as if no debug info
+box2d.lib(b2ChainAndCircleContact.obj) : warning LNK4099: PDB '' was not found with 'box2d.lib(b2ChainAndCircleContact.obj)' or at ''; linking object as if no debug info
+box2d.lib(b2ChainAndPolygonContact.obj) : warning LNK4099: PDB '' was not found with 'box2d.lib(b2ChainAndPolygonContact.obj)' or at ''; linking object as if no debug info
+box2d.lib(b2ContactSolver.obj) : warning LNK4099: PDB '' was not found with 'box2d.lib(b2ContactSolver.obj)' or at ''; linking object as if no debug info
+box2d.lib(b2DistanceJoint.obj) : warning LNK4099: PDB '' was not found with 'box2d.lib(b2DistanceJoint.obj)' or at ''; linking object as if no debug info
+box2d.lib(b2FrictionJoint.obj) : warning LNK4099: PDB '' was not found with 'box2d.lib(b2FrictionJoint.obj)' or at ''; linking object as if no debug info
+box2d.lib(b2GearJoint.obj) : warning LNK4099: PDB '' was not found with 'box2d.lib(b2GearJoint.obj)' or at ''; linking object as if no debug info
+box2d.lib(b2MotorJoint.obj) : warning LNK4099: PDB '' was not found with 'box2d.lib(b2MotorJoint.obj)' or at ''; linking object as if no debug info
+box2d.lib(b2MouseJoint.obj) : warning LNK4099: PDB '' was not found with 'box2d.lib(b2MouseJoint.obj)' or at ''; linking object as if no debug info
+box2d.lib(b2PrismaticJoint.obj) : warning LNK4099: PDB '' was not found with 'box2d.lib(b2PrismaticJoint.obj)' or at ''; linking object as if no debug info
+box2d.lib(b2PulleyJoint.obj) : warning LNK4099: PDB '' was not found with 'box2d.lib(b2PulleyJoint.obj)' or at ''; linking object as if no debug info
+box2d.lib(b2RevoluteJoint.obj) : warning LNK4099: PDB '' was not found with 'box2d.lib(b2RevoluteJoint.obj)' or at ''; linking object as if no debug info
+box2d.lib(b2RopeJoint.obj) : warning LNK4099: PDB '' was not found with 'box2d.lib(b2RopeJoint.obj)' or at ''; linking object as if no debug info
+box2d.lib(b2WeldJoint.obj) : warning LNK4099: PDB '' was not found with 'box2d.lib(b2WeldJoint.obj)' or at ''; linking object as if no debug info
+box2d.lib(b2WheelJoint.obj) : warning LNK4099: PDB '' was not found with 'box2d.lib(b2WheelJoint.obj)' or at ''; linking object as if no debug info
+box2d.lib(b2Body.obj) : warning LNK4099: PDB '' was not found with 'box2d.lib(b2Body.obj)' or at ''; linking object as if no debug info
+box2d.lib(b2Island.obj) : warning LNK4099: PDB '' was not found with 'box2d.lib(b2Island.obj)' or at ''; linking object as if no debug info
+box2d.lib(b2World.obj) : warning LNK4099: PDB '' was not found with 'box2d.lib(b2World.obj)' or at ''; linking object as if no debug info
+  HW2 - Gravity Snake.vcxproj -> C:\Users\bigma\OneDrive\Documents\GitHub\209-05-individual-assignment-sgarciamontejo\Homeworks\HW2 - Gravity Snake\Debug\HW2 - Gravity Snake.exe
